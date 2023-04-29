@@ -8,7 +8,7 @@ These carbon charges were calculated by Time-Dependent Density Functional Theory
 
 The variations of the carbon charges were obtained by subtracting the charge of a carbon atom in an unsubstituted benzoic acid (or benzene) derivative from the respective carbon atom in the substituted derivatives listed above.
 
-The variations of the carbon charges were then used in our Machine-Learning (ML)-based procedure to calculate Hammett’s constants. The ML algorithm considered in the aforementioned Excel file is the Lasso Lars IC.
+The variations of the carbon charges were then used in our Machine-Learning (ML)-based procedure to calculate Hammett’s constants. The ML algorithm considered in the aforementioned Excel file is the Lasso Lars IC. The Leave-One-Out Cross Validation was also considered.
 
 For more information, see the preprint of our work in the link below: https://doi.org/10.26434/chemrxiv-2023-5g6gp.
 
