@@ -1,4 +1,4 @@
-In this repository, you will find an Excel file containing the atomic charges of the carbon atoms in the core structure (benzene ring) of:
+In this repository, you will find the optimized geometries of 90 meta- and 90 para-substituted benzoic acid derivatives, 90 substituted benzene derivatives, and an Excel file containing the atomic charges of the carbon atoms in the core structure (benzene ring) of:
 
 1) 90 meta-substituted benzoic acid derivatives;
 2) 90 para-substituted benzoic acid derivatives; and
