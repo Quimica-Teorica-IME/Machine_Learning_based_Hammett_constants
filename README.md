@@ -8,7 +8,7 @@ The variations of the carbon charges were then used in our Machine-Learning (ML)
 
 The Python scripts used to carry out these analysis are also present in this directory (ML-python-scripts.zip)
 
-For more information, see the preprint of our work in the following link: https://doi.org/10.26434/chemrxiv-2023-5g6gp.
+For more information, see the published paper of our work in the following link: https://doi.org/10.1021/acs.joc.3c00410
 
 We hope our work will help you in any way possible and feel free to contact us.
 
