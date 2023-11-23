@@ -123,7 +123,7 @@ psg.set_options(font=('Helvetica', 12))
 
 # Setting the GUI layout.
 layout = [
-    [psg.Text('Insert all of the Hirshfeld atomic charges of the carbon atoms as indicated by the image below.\n')],
+    [psg.Text('Insert all of the Hirshfeld atomic charges (q) of the carbon atoms as indicated by the image provided with this program.\nCalculations must be performed at the CAM-B3LYP/Def2-TZVP//B3LYP/Def2-TZVP level.\n')],
     [psg.Text('meta-substituted benzoic acid derivative\n')] + [psg.Text('para-substituted benzoic acid derivative\n')],
     [psg.Text('Carbon 1:', size=12), psg.InputText(size=12, key='C1m')] + [psg.Text('', size=12), psg.InputText(size=12, key='C1p')],
     [psg.Text('Carbon 2:', size=12), psg.InputText(size=12, key='C2m')] + [psg.Text('', size=12), psg.InputText(size=12, key='C2p')],
@@ -133,7 +133,7 @@ layout = [
     [psg.Text('Carbon 6:', size=12), psg.InputText(size=12, key='C6m')] + [psg.Text('', size=12), psg.InputText(size=12, key='C6p')],
     [psg.Text('Result:'), psg.Text(key='Output')],
     [psg.Push(), psg.Button('Reset'), psg.Button('Calculate')],
-    [psg.Text('\nFor more information, please see the article:\nG. Monteiro-de-Castro, J. C. Duarte, I. Borges Jr. J. Org. Chem. 2023, 88, 9791−9802.')]
+    [psg.Text('\nFor more information, please see the article:\nMonteiro-de-Castro, G.; Duarte, J. C.; Borges Jr., I. J. Org. Chem., 2023, 88 (14), 9791-9802.\nDOI: 10.1021/acs.joc.3c00410.')]
     ]
 
 # GUI's title.
